@@ -1,0 +1,3 @@
+grupo_experimental,confronto,agente,configuracao_agente,quantidade_partidas,vitorias,derrotas,empates,taxa_vitoria_percentual,decisoes_busca,media_nos_por_decisao,maximo_nos_por_decisao
+personalizado,"Personalizado: Agente principal d4, ordenação ligada (MAX) vs Alpha-Beta limitado d9, ordenação=desligada (MIN)","Agente principal d4, ordenação ligada (MAX)",profundidade=4; ordenação=ligada,10,5,5,0,50.0,35,30.857142857142858,93
+personalizado,"Personalizado: Agente principal d4, ordenação ligada (MAX) vs Alpha-Beta limitado d9, ordenação=desligada (MIN)","Alpha-Beta limitado d9, ordenação=desligada (MIN)",profundidade=9; ordenação=desligada,10,5,5,0,50.0,30,90.5,426

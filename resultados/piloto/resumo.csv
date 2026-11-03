@@ -1,0 +1,5 @@
+grupo_experimental,confronto,agente,configuracao_agente,quantidade_partidas,vitorias,derrotas,empates,taxa_vitoria_percentual,decisoes_busca,media_nos_por_decisao,maximo_nos_por_decisao
+agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,Aleatório,Agente aleatório,16,8,8,0,50.0,0,N/A,N/A
+agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,16,8,8,0,50.0,8,2.0,2
+profundidade,"Profundidade d1 vs d2, sem ordenação","Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,8,4,4,0,50.0,4,2.0,2
+profundidade,"Profundidade d1 vs d2, sem ordenação","Busca limitada d2, sem ordenação",profundidade=2; ordenação=desligada,8,4,4,0,50.0,4,2.0,2

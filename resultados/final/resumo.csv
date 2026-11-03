@@ -1,0 +1,33 @@
+grupo_experimental,confronto,agente,configuracao_agente,quantidade_partidas,vitorias,derrotas,empates,taxa_vitoria_percentual,decisoes_busca,media_nos_por_decisao,maximo_nos_por_decisao
+agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,Aleatório,Agente aleatório,3200,460,2740,0,14.375,0,N/A,N/A
+agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,3200,2740,460,0,85.625,6842,5.972230342005262,17
+agente_aleatorio,Aleatório vs busca limitada d2 sem ordenação,Aleatório,Agente aleatório,3200,218,2982,0,6.8125,0,N/A,N/A
+agente_aleatorio,Aleatório vs busca limitada d2 sem ordenação,"Busca limitada d2, sem ordenação",profundidade=2; ordenação=desligada,3200,2982,218,0,93.1875,6693,18.58718063648588,70
+agente_aleatorio,Aleatório vs busca limitada d3 sem ordenação,Aleatório,Agente aleatório,3200,210,2990,0,6.5625,0,N/A,N/A
+agente_aleatorio,Aleatório vs busca limitada d3 sem ordenação,"Busca limitada d3, sem ordenação",profundidade=3; ordenação=desligada,3200,2990,210,0,93.4375,6729,54.61881408827463,316
+agente_aleatorio,Aleatório vs busca limitada d4 sem ordenação,Aleatório,Agente aleatório,3200,207,2993,0,6.46875,0,N/A,N/A
+agente_aleatorio,Aleatório vs busca limitada d4 sem ordenação,"Busca limitada d4, sem ordenação",profundidade=4; ordenação=desligada,3200,2993,207,0,93.53125,6649,160.69002857572568,1465
+agente_aleatorio,Aleatório vs agente principal d3 com ordenação,Aleatório,Agente aleatório,3200,206,2994,0,6.4375,0,N/A,N/A
+agente_aleatorio,Aleatório vs agente principal d3 com ordenação,Agente principal,profundidade=3; ordenação=ligada,3200,2994,206,0,93.5625,6597,25.238593299984842,173
+profundidade,"Profundidade d1 vs d2, sem ordenação","Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,320,52,268,0,16.25,752,6.648936170212766,17
+profundidade,"Profundidade d1 vs d2, sem ordenação","Busca limitada d2, sem ordenação",profundidade=2; ordenação=desligada,320,268,52,0,83.75,860,21.12093023255814,70
+profundidade,"Profundidade d1 vs d3, sem ordenação","Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,320,50,270,0,15.625,786,6.582697201017812,17
+profundidade,"Profundidade d1 vs d3, sem ordenação","Busca limitada d3, sem ordenação",profundidade=3; ordenação=desligada,320,270,50,0,84.375,896,66.27678571428571,316
+profundidade,"Profundidade d1 vs d4, sem ordenação","Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,320,50,270,0,15.625,726,6.5013774104683195,17
+profundidade,"Profundidade d1 vs d4, sem ordenação","Busca limitada d4, sem ordenação",profundidade=4; ordenação=desligada,320,270,50,0,84.375,836,209.86363636363637,1465
+profundidade,"Profundidade d2 vs d3, sem ordenação","Busca limitada d2, sem ordenação",profundidade=2; ordenação=desligada,320,100,220,0,31.25,860,21.404651162790696,70
+profundidade,"Profundidade d2 vs d3, sem ordenação","Busca limitada d3, sem ordenação",profundidade=3; ordenação=desligada,320,220,100,0,68.75,920,68.83695652173913,316
+profundidade,"Profundidade d2 vs d4, sem ordenação","Busca limitada d2, sem ordenação",profundidade=2; ordenação=desligada,320,92,228,0,28.75,840,20.61190476190476,70
+profundidade,"Profundidade d2 vs d4, sem ordenação","Busca limitada d4, sem ordenação",profundidade=4; ordenação=desligada,320,228,92,0,71.25,908,211.34361233480178,1465
+profundidade,"Profundidade d3 vs d4, sem ordenação","Busca limitada d3, sem ordenação",profundidade=3; ordenação=desligada,320,104,216,0,32.5,900,61.22222222222222,316
+profundidade,"Profundidade d3 vs d4, sem ordenação","Busca limitada d4, sem ordenação",profundidade=4; ordenação=desligada,320,216,104,0,67.5,956,202.56485355648536,1465
+ordenacao,Ordenação d1: desligada vs ligada,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,320,62,258,0,19.375,694,6.129682997118156,17
+ordenacao,Ordenação d1: desligada vs ligada,"Busca limitada d1, com ordenação",profundidade=1; ordenação=ligada,320,258,62,0,80.625,792,5.8232323232323235,17
+ordenacao,Ordenação d2: desligada vs ligada,"Busca limitada d2, sem ordenação",profundidade=2; ordenação=desligada,320,92,228,0,28.75,912,20.789473684210527,70
+ordenacao,Ordenação d2: desligada vs ligada,"Busca limitada d2, com ordenação",profundidade=2; ordenação=ligada,320,228,92,0,71.25,980,14.024489795918367,47
+ordenacao,Ordenação d3: desligada vs ligada,"Busca limitada d3, sem ordenação",profundidade=3; ordenação=desligada,320,98,222,0,30.625,926,57.83585313174946,316
+ordenacao,Ordenação d3: desligada vs ligada,"Busca limitada d3, com ordenação",profundidade=3; ordenação=ligada,320,222,98,0,69.375,988,30.751012145748987,173
+ordenacao,Ordenação d4: desligada vs ligada,"Busca limitada d4, sem ordenação",profundidade=4; ordenação=desligada,320,114,206,0,35.625,926,177.62419006479482,1465
+ordenacao,Ordenação d4: desligada vs ligada,"Busca limitada d4, com ordenação",profundidade=4; ordenação=ligada,320,206,114,0,64.375,972,52.63168724279836,381
+comparacao_controlada,Busca d1 ordenada vs agente principal d3 ordenado,"Busca limitada d1, com ordenação",profundidade=1; ordenação=ligada,320,160,160,0,50.0,848,6.113207547169812,17
+comparacao_controlada,Busca d1 ordenada vs agente principal d3 ordenado,Agente principal,profundidade=3; ordenação=ligada,320,160,160,0,50.0,848,29.858490566037737,173

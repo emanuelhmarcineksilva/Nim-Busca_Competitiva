@@ -1,0 +1,25 @@
+id_partida,grupo_experimental,confronto,numero_turno,agente,configuracao_agente,jogador,estado_anterior,jogada,estado_posterior,nos_visitados,semente_mestre,semente_partida,semente_turno
+c00-p00-k0-r00,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,Aleatório,Agente aleatório,MAX,0|1|MAX,B:1,0|0|MIN,N/A,2026,2026,5893448777124979737
+c00-p00-k0-r01,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,Aleatório,Agente aleatório,MAX,0|1|MAX,B:1,0|0|MIN,N/A,2026,2027,17100944805304449291
+c00-p00-k1-r00,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MIN,0|1|MIN,B:1,0|0|MAX,2,2026,2036,N/A
+c00-p00-k1-r01,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MIN,0|1|MIN,B:1,0|0|MAX,2,2026,2037,N/A
+c00-p00-k2-r00,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MAX,0|1|MAX,B:1,0|0|MIN,2,2026,2046,N/A
+c00-p00-k2-r01,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MAX,0|1|MAX,B:1,0|0|MIN,2,2026,2047,N/A
+c00-p00-k3-r00,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,Aleatório,Agente aleatório,MIN,0|1|MIN,B:1,0|0|MAX,N/A,2026,2056,17516857965473579129
+c00-p00-k3-r01,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,Aleatório,Agente aleatório,MIN,0|1|MIN,B:1,0|0|MAX,N/A,2026,2057,13140939203428493025
+c00-p08-k0-r00,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,Aleatório,Agente aleatório,MAX,1|0|MAX,A:1,0|0|MIN,N/A,2026,2346,7192991213282331872
+c00-p08-k0-r01,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,Aleatório,Agente aleatório,MAX,1|0|MAX,A:1,0|0|MIN,N/A,2026,2347,16485010602428207107
+c00-p08-k1-r00,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MIN,1|0|MIN,A:1,0|0|MAX,2,2026,2356,N/A
+c00-p08-k1-r01,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MIN,1|0|MIN,A:1,0|0|MAX,2,2026,2357,N/A
+c00-p08-k2-r00,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MAX,1|0|MAX,A:1,0|0|MIN,2,2026,2366,N/A
+c00-p08-k2-r01,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MAX,1|0|MAX,A:1,0|0|MIN,2,2026,2367,N/A
+c00-p08-k3-r00,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,Aleatório,Agente aleatório,MIN,1|0|MIN,A:1,0|0|MAX,N/A,2026,2376,13175238013365479585
+c00-p08-k3-r01,agente_aleatorio,Aleatório vs busca limitada d1 sem ordenação,1,Aleatório,Agente aleatório,MIN,1|0|MIN,A:1,0|0|MAX,N/A,2026,2377,16519621752116419500
+c01-p00-k0-r00,profundidade,"Profundidade d1 vs d2, sem ordenação",1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MAX,0|1|MAX,B:1,0|0|MIN,2,2026,N/A,N/A
+c01-p00-k1-r00,profundidade,"Profundidade d1 vs d2, sem ordenação",1,"Busca limitada d2, sem ordenação",profundidade=2; ordenação=desligada,MIN,0|1|MIN,B:1,0|0|MAX,2,2026,N/A,N/A
+c01-p00-k2-r00,profundidade,"Profundidade d1 vs d2, sem ordenação",1,"Busca limitada d2, sem ordenação",profundidade=2; ordenação=desligada,MAX,0|1|MAX,B:1,0|0|MIN,2,2026,N/A,N/A
+c01-p00-k3-r00,profundidade,"Profundidade d1 vs d2, sem ordenação",1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MIN,0|1|MIN,B:1,0|0|MAX,2,2026,N/A,N/A
+c01-p08-k0-r00,profundidade,"Profundidade d1 vs d2, sem ordenação",1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MAX,1|0|MAX,A:1,0|0|MIN,2,2026,N/A,N/A
+c01-p08-k1-r00,profundidade,"Profundidade d1 vs d2, sem ordenação",1,"Busca limitada d2, sem ordenação",profundidade=2; ordenação=desligada,MIN,1|0|MIN,A:1,0|0|MAX,2,2026,N/A,N/A
+c01-p08-k2-r00,profundidade,"Profundidade d1 vs d2, sem ordenação",1,"Busca limitada d2, sem ordenação",profundidade=2; ordenação=desligada,MAX,1|0|MAX,A:1,0|0|MIN,2,2026,N/A,N/A
+c01-p08-k3-r00,profundidade,"Profundidade d1 vs d2, sem ordenação",1,"Busca limitada d1, sem ordenação",profundidade=1; ordenação=desligada,MIN,1|0|MIN,A:1,0|0|MAX,2,2026,N/A,N/A
